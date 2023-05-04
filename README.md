@@ -1,4 +1,4 @@
-# expanseTracker
+# expense tracker
 
 
 [screen-recording.webm](https://user-images.githubusercontent.com/89196594/236254863-44c4d2af-9058-457f-8ef7-0706982ab5c4.webm)
